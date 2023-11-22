@@ -1,7 +1,7 @@
 # Twitter Sentiment Analysis in Mental Health
 
 1. Open Jupyter Notebook.
-2. Upload the Senior Project - Fardin Ahmed file.
+2. Upload the "Twitter Sentiment Analysis in Mental Health - Fardin Ahmed" file.
 3. When you run the program for the first time, a new directory called "Twitter Data" will be created in the Jupyter Notebook environment as well as sub-directories.
 4. Navigate to the directory where the "Twitter Data" folder is created and located.
 5. Click on the "New" button and select "Folder" to create a new folder named "Twitter Data".
