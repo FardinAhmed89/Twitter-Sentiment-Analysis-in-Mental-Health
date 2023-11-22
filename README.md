@@ -1,4 +1,4 @@
-# TwitterSentimentAnalysis
+# Twitter Sentiment Analysis in Mental Health
 
 1. Open Jupyter Notebook.
 2. Upload the Senior Project - Fardin Ahmed file.
