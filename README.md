@@ -27,7 +27,7 @@ Explore a diverse range of datasets from Kaggle, ranging from 10,000 to over a m
 9. Run the main program, adjusting parameters as needed.
 
 ## Sample Tweets
-Check the 'sample_tweets' folder for a collection of tweets that showcase the program's capabilities.
+Check the SampleTweets provided for a collection of tweets that showcase the program's capabilities.
 I suggest you upload more datasets containing more tweets since I am unable to upload large datasets for sampling before you run my program.
 Additional datasets can be found in Kaggle.com
 
